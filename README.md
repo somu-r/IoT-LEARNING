@@ -13,19 +13,6 @@ Learn and explore the fundamentals of **Internet of Things (IoT)** through hands
 
 ---
 
-## 📂 Repository Structure
-```
-IoT-LEARNING/
-│
-├── Assignments/        # Practice exercises and tasks
-├── Circuits/           # Tinkercad circuit designs
-├── Code/               # Arduino/ESP32 sketches
-├── Reports/            # Documentation and analysis
-└── README.md           # Project overview
-```
-
----
-
 ## ⚡ Getting Started
 1. Clone the repository:
    ```bash
@@ -65,6 +52,6 @@ Contributions are welcome!
 
 ## 👨‍💻 Author
 **Somu R**  
-Passionate about IoT, cloud computing, and 3D design.  
+Passionate about IoT. 
 
 ---
