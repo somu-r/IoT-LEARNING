@@ -4,7 +4,7 @@ Learn and explore the fundamentals of **Internet of Things (IoT)** through hands
 
 ---
 
-## 📌 Features
+## 📌 Features 
 - Step-by-step tutorials on IoT basics  
 - Circuit designs (Tinkercad simulations included)  
 - Arduino and ESP32 code samples  
