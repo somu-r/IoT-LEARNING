@@ -85,7 +85,6 @@ void loop() {
 
         attempts = 0;
       }
-
       else {
 
         Serial.print("Attempts remaining: ");
