@@ -20,7 +20,7 @@ Learn and explore the fundamentals of **Internet of Things (IoT)** through hands
    ```
 2. Open the project in **VS Code** or your preferred IDE.  
 3. Upload sketches to Arduino/ESP32 boards.  
-4. Simulate circuits using **Tinkercad**.  
+4. Simulate circuits using **Tinkercad**.
 
 ---
 
