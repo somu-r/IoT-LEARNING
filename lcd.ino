@@ -11,3 +11,4 @@ void loop() {
   lcd.print("somu");
   delay(1000);
 }
+
