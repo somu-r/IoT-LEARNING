@@ -10,7 +10,7 @@ Learn and explore the fundamentals of **Internet of Things (IoT)** through hands
 - Arduino and ESP32 code samples  
 - Sensor interfacing (temperature, motion, light, etc.)  
 - Real-world IoT applications and mini-projects  
-
+ 
 ---
 
 ## ⚡ Getting Started
