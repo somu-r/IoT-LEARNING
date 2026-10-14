@@ -1,6 +1,6 @@
 String pass = "SOMU";
 int ledPin = 10;
-int buzzerPin = 8;
+int buzzerPin = 8; 
 int attempts = 0;
 int maxAttempts = 4;
 void setup() {
